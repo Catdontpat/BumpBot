@@ -1,0 +1,16 @@
+{
+  "name": "bumpbottest",
+  "version": "1.0.0",
+  "description": "a bump bot written fully in discord js and mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "catdontpat",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.10.2"
+  }
+}
